@@ -1,0 +1,9 @@
+Entry:
+Sheffield		7-9 8-9
+Leeds		71-10 70-10
+Huddersfield	4-24 5-24
+
+Exit:
+Sheffield		7-10
+Leeds		71-9
+Huddersfield	4-24
