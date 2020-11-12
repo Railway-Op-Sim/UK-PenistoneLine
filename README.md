@@ -13,7 +13,7 @@ This project represents the Penistone line, which runs between Sheffield and Hud
 | Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Timetable | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Documentation | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
+| Documentation | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 
 *As this is an upgraded version, lots of this project is already completed. Although, the main aim of this would be to make the simulation more professional, such as adding a more comprehensive timetable*
 
